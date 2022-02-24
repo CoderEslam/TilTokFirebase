@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436703592369",
+    "project_id": "tiktokfirebase-73c2a",
+    "storage_bucket": "tiktokfirebase-73c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436703592369:android:0dd028016d9f4087bbc790",
+        "android_client_info": {
+          "package_name": "com.doubleclick.tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436703592369-o2nrcrff9aic8kqhqqfgbifhcvpcivlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTrAGCB4pLFhIL4hsi3eapa6JYmSVKJ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436703592369-o2nrcrff9aic8kqhqqfgbifhcvpcivlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
